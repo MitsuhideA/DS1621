@@ -1,3 +1,5 @@
+// Source : http://f-leb.developpez.com/tutoriels/arduino/bus-i2c/
+
 #ifndef DS1621_h
 #define DS1621_h
 

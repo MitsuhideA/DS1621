@@ -1,3 +1,5 @@
+// Source : http://f-leb.developpez.com/tutoriels/arduino/bus-i2c/
+
 #include "Arduino.h"
 #include "DS1621.h"
 
