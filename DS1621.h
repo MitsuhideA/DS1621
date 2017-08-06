@@ -26,7 +26,7 @@ public:
     uint8_t isAvailable();
     float readTemperature();
 private:
-    uint8_t _address;
+    int _address;
 };
 
 
